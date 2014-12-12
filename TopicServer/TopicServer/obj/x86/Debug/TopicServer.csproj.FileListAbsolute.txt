@@ -1,0 +1,21 @@
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\bin\Debug\TopicServer.exe
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\bin\Debug\TopicServer.pdb
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\obj\x86\Debug\TopicServer.csprojResolveAssemblyReference.cache
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\obj\x86\Debug\TopicServer.Properties.Resources.resources
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\obj\x86\Debug\TopicServer.csproj.GenerateResource.Cache
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\obj\x86\Debug\TopicServer.exe
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\obj\x86\Debug\TopicServer.pdb
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\obj\x86\Debug\TopicServer.Server.resources
+C:\Users\guirim\documents\visual studio 2010\Projects\TopicServer\TopicServer\bin\Debug\TopicServer.exe.config
+E:\c# 서버개발\TopicServer\TopicServer\bin\Debug\TopicServer.exe.config
+E:\c# 서버개발\TopicServer\TopicServer\obj\x86\Debug\TopicServer.exe
+E:\c# 서버개발\TopicServer\TopicServer\obj\x86\Debug\TopicServer.pdb
+E:\c# 서버개발\TopicServer\TopicServer\obj\x86\Debug\TopicServer.csprojResolveAssemblyReference.cache
+E:\c# 서버개발\TopicServer\TopicServer\obj\x86\Debug\TopicServer.Server.resources
+E:\c# 서버개발\TopicServer\TopicServer\obj\x86\Debug\TopicServer.Properties.Resources.resources
+E:\c# 서버개발\TopicServer\TopicServer\obj\x86\Debug\TopicServer.csproj.GenerateResource.Cache
+E:\c# 서버개발\TopicServer\TopicServer\bin\Debug\TopicServer.exe
+E:\c# 서버개발\TopicServer\TopicServer\bin\Debug\TopicServer.pdb
+E:\1_BI\1_개발\c# 서버개발\C#_Server\TopicServer\TopicServer\bin\Debug\TopicServer.exe.config
+E:\1_BI\1_개발\c# 서버개발\C#_Server\TopicServer\TopicServer\obj\x86\Debug\TopicServer.exe
+E:\1_BI\1_개발\c# 서버개발\C#_Server\TopicServer\TopicServer\obj\x86\Debug\TopicServer.pdb
